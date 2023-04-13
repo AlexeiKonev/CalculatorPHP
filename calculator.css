@@ -1,0 +1,19 @@
+/* Стили для формы калькулятора */
+form {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Стили для входных полей и кнопки */
+input, select {
+    margin: 10px 0;
+    padding: 5px;
+    width: 100%;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
